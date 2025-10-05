@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Institute of Automation, Chinese Academy of Sciences, 2030 (expected)
-* <img src="images/NKU.jpg" alt="NKU" width="20" height="20"> B.S. in College of Artificial Intelligence, Nankai University, 2025
+* <img src="/images/NKU.jpg" alt="NKU" width="20" height="20"> B.S. in College of Artificial Intelligence, Nankai University, 2025
 
 <!-- Work experience
 ======
