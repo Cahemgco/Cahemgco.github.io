@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ruochuan' s Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruochuan Shi"
 description              : &description "personal description"
 url                      : https://cahemgco.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Kz6_0p0AAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -76,8 +76,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -255,7 +253,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  _publications
   - scope:
       path: ""
       type: publications
