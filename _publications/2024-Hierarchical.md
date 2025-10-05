@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-Hierarchical
 excerpt: 'Qiao Yi, Shi, Ruochuan, Guo Fengrui, Zhao Bo, Li Wenyu, Liu Zhongxin, Duan Feng'
-date: 2024-07
+date: 2024-07-01
 citation: 'Qiao Y, Shi R, Guo F, et al. A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG[C]//2024 43rd Chinese Control Conference (CCC). IEEE, 2024: 3389-3394.'
 ---
 
