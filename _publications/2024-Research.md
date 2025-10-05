@@ -2,7 +2,7 @@
 title: "Research on EEG Signal Classification Method Based on Brain-Computer Interface Control of Rehabilitation Robot"
 collection: publications
 category: conferences
-permalink: /publication/2024-Research
+# permalink: /publication/2024-Research
 excerpt: 'Yiwen Zhang, Wenzhi Wang, Gan Liu, Yi Qiao, **Ruochuan Shi**, Yahan Duan, Ying Du, Sining Li, Fengrui Guo, Thomas John McHugh, Feng Duan'
 date: 2024-08-23
 venue: 'i-CREATe'
