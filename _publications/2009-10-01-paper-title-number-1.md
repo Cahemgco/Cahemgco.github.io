@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2024-Hierarchical
+excerpt: 'Qiao Yi, Shi, Ruochuan, Guo Fengrui, Zhao Bo, Li Wenyu, Liu Zhongxin, Duan Feng'
+date: 2024-07
+citation: 'Qiao Y, Shi R, Guo F, et al. A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG[C]//2024 43rd Chinese Control Conference (CCC). IEEE, 2024: 3389-3394.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In 2022, global stroke cases reached 101 million, posing a significant health threat. Traditional rehabilitation methods are primarily passive, while active recovery therapy leveraging brain plasticity proves more effective. Brain-computer interfaces(BCIs) establish a pathway between individuals and external devices. To address this, we have developed a robotic system that combines a BCI system with active rehabilitation. This system consists of two components: signals acquisition and classification, and robot control. For electroencephalography (EEG) signals, we use the Filter Bank Common Spatial Pattern(FBCSP) algorithm to extract spatial-frequency features and employ machine learning methods for classification. Additionally, we enhance classification effectiveness using EEGNet. The robotic system, divided into navigation, vision, and robotic arm modules, simulates patient-robot interaction through motor imagery(MI) tasks. Tests on five participants demonstrate EEGNet’s superior classification accuracy (81.75% vs. 75.45%), with an overall task completion accuracy of 70.91%. The results show that the robotic system has a high accuracy in classifying MI-EEG, which is expected to create an intelligent rehabilitation system for future stroke patients.
