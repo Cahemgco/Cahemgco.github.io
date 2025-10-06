@@ -1,7 +1,7 @@
 ---
 title: "A Hierarchical Intelligent Rehabilitation Robotic System Based on MI-EEG"
 collection: publications
-category: conferences
+categories: conferences
 permalink: /publication/2024-Hierarchical
 excerpt: 'Yi Qiao, **Ruochuan Shi**, Fengrui Guo, Bo Zhao, Wenyu Li, Zhongxin Liu, Feng Duan'
 date: 2024-07-28
