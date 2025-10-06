@@ -21,8 +21,7 @@ Education
 Internship
 ======
 * <img src="/images/CAS.png" alt="CAS" width="40" height="40"> **Institute of Automation, Chinese Academy of Sciences,** 2024.10-2025.06
-  
-  Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games
+
   - Participated in developing a multi-agent reinforcement learning framework for equilibrium strategy generalization in cross-graph pursuit-evasion games.
 
 Awards

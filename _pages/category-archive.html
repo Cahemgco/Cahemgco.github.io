@@ -23,6 +23,6 @@ author_profile: true
   {% assign pubs = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
   {% for pub in pubs %}
-    {% include archive-single.html %}
+    {% include archive-single.html post=pub %}
   {% endfor %}
 {% endfor %}
